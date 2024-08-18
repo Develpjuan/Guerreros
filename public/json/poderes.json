@@ -1,0 +1,29 @@
+{
+    "poderes": [
+        {
+            "nombre": "inmortalidad",
+            "daño": 0,
+            "efecto": "inmortalidad por tiempo limitado"
+        },
+        {
+            "nombre": "regeneracion",
+            "daño": 0,
+            "efecto": "capacidad de seguir vivo despues de un ataque mortal"
+        },
+        {
+            "nombre": "espada cometa plateado",
+            "daño": 10,
+            "efecto": "defender cualquier ataque"
+        },
+        {
+            "nombre": "carisma animal",
+            "daño": 0,
+            "efecto": "domar monstruos"
+        },
+        {
+            "nombre": "incinerar",
+            "daño": 0,
+            "efecto": "reducir todo a cenizas"
+        }
+    ]
+}

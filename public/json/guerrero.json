@@ -1,0 +1,60 @@
+{
+    "guerrero": [
+        {
+            "id": 1,
+            "nombre": "Ragna",
+            "salud": 100,
+            "ataque": 1500,
+            "defensa": 1000,
+            "imagen": "../../../public/assets/img/luffy.jfif"
+        },
+        {
+            "id": 2,
+            "nombre": "Naoufumi",
+            "salud": 100,
+            "ataque": 1500,
+            "defensa": 1000,
+            "imagen": "../../../public/assets/img/luffy.jfif"
+        },
+        {
+            "id": 3,
+            "nombre": "genos",
+            "salud": 100,
+            "ataque": 1500,
+            "defensa": 1000,
+            "imagen": "../../../public/assets/img/luffy.jfif"
+        },
+        {
+            "id": 4,
+            "nombre": "charmy",
+            "salud": 100,
+            "ataque": 1500,
+            "defensa": 1000,
+            "imagen": "../../../public/assets/img/luffy.jfif"
+        },
+        {
+            "id": 5,
+            "nombre": "marce",
+            "salud": 100,
+            "ataque": 1500,
+            "defensa": 1000,
+            "imagen": "../../../public/assets/img/luffy.jfif"
+        },
+        {
+            "id": 6,
+            "nombre": "goku",
+            "salud": 100,
+            "ataque": 1500,
+            "defensa": 1000,
+            "imagen": "../../../public/assets/img/luffy.jfif"
+        },
+        {
+            "id": 7,
+            "nombre": "zoro",
+            "salud": 100,
+            "ataque": 1500,
+            "defensa": 1000,
+            "imagen": "../../../public/assets/img/zoro.jfif"
+        }
+    ]
+}

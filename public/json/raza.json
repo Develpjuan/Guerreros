@@ -1,0 +1,34 @@
+{
+    "raza": [
+        {
+            "nombre": "Humano",
+            "bonificadorSalud": 15,
+            "bonificadorAtaque": 55,
+            "bonificadorDefensa": 28
+        },
+        {
+            "nombre": "androide",
+            "bonificadorSalud": 30,
+            "bonificadorAtaque": 40,
+            "bonificadorDefensa": 80
+        },
+        {
+            "nombre": "elfo",
+            "bonificadorSalud": 100,
+            "bonificadorAtaque": 80,
+            "bonificadorDefensa": 60
+        },
+        {
+            "nombre": "hibrido",
+            "bonificadorSalud": 50,
+            "bonificadorAtaque": 85,
+            "bonificadorDefensa": 46
+        },
+        {
+            "nombre": "enano",
+            "bonificadorSalud": 42,
+            "bonificadorAtaque": 63,
+            "bonificadorDefensa": 30
+        }
+    ]
+}

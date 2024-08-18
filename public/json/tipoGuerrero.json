@@ -1,0 +1,34 @@
+{
+    "tipoGuerrero": [
+        {
+            "nombre": "espadachin magico",
+            "bonificadorSalud": 20,
+            "bonificadorAtaque": 200,
+            "bonificadorDefensa": 100
+        },
+        {
+            "nombre": "escudero",
+            "bonificadorSalud": 50,
+            "bonificadorAtaque": 130,
+            "bonificadorDefensa": 350
+        },
+        {
+            "nombre": "luchador",
+            "bonificadorSalud": 35,
+            "bonificadorAtaque": 450,
+            "bonificadorDefensa": 210
+        },
+        {
+            "nombre": "mago",
+            "bonificadorSalud": 60,
+            "bonificadorAtaque": 170,
+            "bonificadorDefensa": 240
+        },
+        {
+            "nombre": "caballero magico",
+            "bonificadorSalud": 110,
+            "bonificadorAtaque": 280,
+            "bonificadorDefensa": 125
+        }
+    ]
+}
